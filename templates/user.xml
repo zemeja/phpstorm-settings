@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="dumpvar" value="|@dumpvar" description="add smarty |@dumpvar" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
