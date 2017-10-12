@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="36c80cb6-ba43-4dba-ab2a-9c67da8713f6" name="decodoma2" url="http://richterj.oxid2.oxyonline.cz/oxid4_decodoma2/trunk/users/decodoma2/">
-        <fileTransfer port="0" mountedRoot="/media/devel_richterj/oxid4_decodoma2/trunk" accessType="MOUNT" />
-      </webServer>
-    </option>
-  </component>
-</application>
