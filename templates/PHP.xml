@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="vd" value="var_dump(&quot;Genitals&quot;);" description="Var dump" toReformat="false" toShortenFQNames="true">
+  <template name="vd" value="var_dump();" description="Var dump" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
