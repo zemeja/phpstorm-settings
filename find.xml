@@ -22,9 +22,9 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
-      <mask>*.php</mask>
       <mask>*.tp</mask>
       <mask>*.tpl</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
