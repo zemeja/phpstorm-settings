@@ -10,7 +10,6 @@
   <template name="formrow" value="{{ form_row(form.$FIELD$) }}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="Twig" value="true" />
     </context>
@@ -18,7 +17,6 @@
   <template name="formrowfull" value="&lt;div class=&quot;form-control&quot;&gt;&#10;    {{ form_label(form.$FIELD$) }}&#10;    {{ form_widget(form.$FIELD$) }}&#10;    {{ form_errors(form.$FIELD$) }}&#10;&lt;/div&gt;" description="Renders widget/label/errors" toReformat="true" toShortenFQNames="true">
     <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="Twig" value="true" />
     </context>
@@ -47,7 +45,6 @@
   <template name="include" value="{{ include('$TEMPLATE$') }}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="TEMPLATE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="Twig" value="true" />
     </context>
@@ -67,7 +64,6 @@
   <template name="render" value="{{ render(controller('$CONTROLLER$', { $END$ })) }}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="CONTROLLER" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="Twig" value="true" />
     </context>
@@ -111,12 +107,12 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="getem" value="$em = $this-&gt;getDoctrine()-&gt;getManager();" toReformat="false" toShortenFQNames="true">
+  <template name="getem" value="$em = $this-&gt;getDoctrine()-&gt;getManager();" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="getrepo" value="$em-&gt;getRepository('$ENTITY$');" toReformat="false" toShortenFQNames="true">
+  <template name="getrepo" value="$em-&gt;getRepository('$ENTITY$');" description="" toReformat="false" toShortenFQNames="true">
     <variable name="ENTITY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
@@ -129,24 +125,21 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="asset" value="{{ asset('$PATH$') }}" toReformat="false" toShortenFQNames="true">
+  <template name="asset" value="{{ asset('$PATH$') }}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="asseticjs" value="{% javascripts&#10;    '$PATH$'$END$&#10;%}&#10;    &lt;script type=&quot;text/javascript&quot; src=&quot;{{ asset_url }}&quot;&gt;&lt;/script&gt;&#10;{% endjavascripts %}" toReformat="false" toShortenFQNames="true">
+  <template name="asseticjs" value="{% javascripts&#10;    '$PATH$'$END$&#10;%}&#10;    &lt;script type=&quot;text/javascript&quot; src=&quot;{{ asset_url }}&quot;&gt;&lt;/script&gt;&#10;{% endjavascripts %}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="asseticcss" value="{% stylesheets&#10;    '$PATH$'$END$&#10;    filter='cssrewrite'&#10;%}&#10;    &lt;link rel=&quot;stylesheet&quot; href=&quot;{{ asset_url }}&quot; /&gt;&#10;{% endstylesheets %}" toReformat="false" toShortenFQNames="true">
+  <template name="asseticcss" value="{% stylesheets&#10;    '$PATH$'$END$&#10;    filter='cssrewrite'&#10;%}&#10;    &lt;link rel=&quot;stylesheet&quot; href=&quot;{{ asset_url }}&quot; /&gt;&#10;{% endstylesheets %}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
     </context>
   </template>
@@ -154,9 +147,7 @@
     <variable name="SERVICEID" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="XSL_TEXT" value="true" />
       <option name="XML" value="true" />
-      <option name="XML_TEXT" value="true" />
     </context>
   </template>
   <template name="yamlroute" value="$NAME$:&#10;    path:   /$PATH$&#10;    defaults:  { _controller: $CONTROLLER$ }" description="YAML route" toReformat="false" toShortenFQNames="true">
@@ -164,25 +155,6 @@
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CONTROLLER" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="HTML" value="true" />
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="XML_TEXT" value="true" />
-      <option name="JSON" value="true" />
-      <option name="SQL" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="true" />
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="CSS_RULESET_LIST" value="true" />
-      <option name="CSS" value="true" />
-      <option name="CUCUMBER_FEATURE_FILE" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JS_STATEMENT" value="true" />
-      <option name="TypeScript" value="true" />
-      <option name="PHP" value="true" />
-      <option name="PHP Comment" value="true" />
-      <option name="PHP String Literal" value="true" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -195,10 +167,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="trans" value="{{ '$MESSAGE$'|trans }}" toReformat="false" toShortenFQNames="true" description="Allows fast entering of translated messages">
+  <template name="trans" value="{{ '$MESSAGE$'|trans }}" description="Allows fast entering of translated messages" toReformat="false" toShortenFQNames="true">
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="Twig" value="true" />
     </context>
@@ -208,9 +179,7 @@
     <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ARG1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="XSL_TEXT" value="true" />
       <option name="XML" value="true" />
-      <option name="XML_TEXT" value="true" />
     </context>
   </template>
 </templateSet>
