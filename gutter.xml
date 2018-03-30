@@ -1,0 +1,9 @@
+<application>
+  <component name="LineMarkerSettings">
+    <option name="providers">
+      <map>
+        <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

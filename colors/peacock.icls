@@ -1,11 +1,12 @@
 <scheme name="Peacock" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0833334" />
   <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="3fb652" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -534,7 +535,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2b2a27" />
+        <option name="BACKGROUND" value="f7427" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">

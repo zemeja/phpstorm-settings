@@ -1,0 +1,3 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="GotoCustomRegion" />
+</keymap>
