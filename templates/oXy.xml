@@ -1,0 +1,7 @@
+<templateSet group="oXy">
+  <template name="lang" value="[{oxmultilang ident=&quot;$SELECTION$&quot;}]" description="oxmultilang" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
