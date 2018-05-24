@@ -12,7 +12,7 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.php</mask>
     <mask>*.tpl</mask>
+    <mask>*.php</mask>
   </component>
 </application>
