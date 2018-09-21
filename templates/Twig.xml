@@ -1,0 +1,8 @@
+<templateSet group="Twig">
+  <template name="trans" value="{{ 'basket.$SELECTION$'|trans }}" description="Twig trans" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
