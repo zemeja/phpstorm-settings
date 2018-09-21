@@ -1,9 +1,0 @@
-<templateSet group="oXy">
-  <template name="lang" value="[{l i=&quot;$SELECTION$&quot;}]" description="oxmultilang" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
-  <template name="smup" value="@include media-breakpoint-up(sm) {&#10;&#10;}" description="bootstrap 3 sm up" toReformat="false" toShortenFQNames="true" />
-  <template name="mdup" value="@include media-breakpoint-up(md) {&#10;&#10;}" description="bootstrap 3 md up" toReformat="false" toShortenFQNames="true" />
-</templateSet>
