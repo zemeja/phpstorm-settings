@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping ext="lolo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
