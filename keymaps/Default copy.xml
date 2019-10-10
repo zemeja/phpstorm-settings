@@ -25,9 +25,6 @@
   </action>
   <action id="EditorDeleteLine" />
   <action id="EditorDuplicate" />
-  <action id="EditorToggleCase">
-    <keyboard-shortcut first-keystroke="alt u" />
-  </action>
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
