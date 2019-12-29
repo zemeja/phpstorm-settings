@@ -1,0 +1,56 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.7_js_bootstrap.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.7_js_bootstrap.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="datatables" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_bs4-4.0.0_jq-3.2.1_jszip-2.5.0_dt-1.10.16_af-2.2.2_b-1.5.1_b-colvis-1.5.1_b-html5-1.5.1_b-print-1.5.1_fh-3.1.3_kt-2.3.2_r-2.2.1_sc-1.4.4_sl-1.2.5_datatables.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_bs4-4.0.0_jq-3.2.1_jszip-2.5.0_dt-1.10.16_af-2.2.2_b-1.5.1_b-colvis-1.5.1_b-html5-1.5.1_b-print-1.5.1_fh-3.1.3_kt-2.3.2_r-2.2.1_sc-1.4.4_sl-1.2.5_datatables.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery-ui" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_ui_1.10.4_jquery-ui.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_ui_1.10.4_jquery-ui.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="slick" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_slick-carousel_1.8.1_slick.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_slick-carousel_1.8.1_slick.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
