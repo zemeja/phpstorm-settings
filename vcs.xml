@@ -4,10 +4,19 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://git.oxyshop.cz" />
-          <option name="userName" value="zemekj" />
+          <option name="userName" value="richterj" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="zemeja" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.oxyshop.cz:tests/testcafe.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\jakze" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
@@ -18,8 +27,5 @@
         <option value="3" />
       </list>
     </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Dokumenty/deco" />
   </component>
 </application>
