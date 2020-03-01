@@ -1,5 +1,8 @@
 <keymap version="1" name="Zakub windows copy" parent="$default">
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
