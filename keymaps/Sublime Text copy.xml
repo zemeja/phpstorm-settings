@@ -1,0 +1,6 @@
+<keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="EditorAddOrRemoveCaret" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+</keymap>
