@@ -1,9 +1,17 @@
 <keymap version="1" name="Zakub windows copy" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.DeleteRows" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
