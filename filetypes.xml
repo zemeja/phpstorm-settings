@@ -1,9 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="vue" type="PLAIN_TEXT" />
-      <mapping pattern="App.vue" type="Vue.js" />
-      <removed_mapping ext="vue" type="Vue.js" />
+      <removed_mapping ext="vue" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="App.vue" approved="true" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
