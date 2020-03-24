@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
+      <removed_mapping ext="vue" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="App.vue" approved="true" type="Vue.js" />
     </extensionMap>
   </component>
 </application>

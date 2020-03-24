@@ -1,7 +1,15 @@
 <code_scheme name="Default (1)" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  </HTMLCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>

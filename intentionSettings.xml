@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="PHP/Creates new PHP Test" />
+  </component>
+</application>
