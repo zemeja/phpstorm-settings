@@ -1,0 +1,7 @@
+<application>
+  <component name="PhpCSFixer">
+    <phpcsfixer_settings>
+      <phpcs_fixer_by_interpreter interpreter_id="65ece5d5-775b-4e12-9649-e9f7042a7808" tool_path="/var/www/decodoma/vendor/bin/php-cs-fixer" />
+    </phpcsfixer_settings>
+  </component>
+</application>
