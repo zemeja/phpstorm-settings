@@ -15,7 +15,7 @@
     <mask>*.yaml</mask>
     <mask>*.yml</mask>
     <mask>*.twig</mask>
-    <mask>*.tpl</mask>
     <mask>*.php</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
