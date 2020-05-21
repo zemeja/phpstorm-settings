@@ -3,7 +3,6 @@
     <option name="customScope" value="ignore" />
     <option name="defaultScopeName" value="ignore" />
     <option name="SEARCH_SCOPE" value="ignore" />
-    <option name="FILE_MASK" value="*.tpl" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
