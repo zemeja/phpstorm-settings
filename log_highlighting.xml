@@ -1,0 +1,12 @@
+<application>
+  <component name="LogHighlightingSettings">
+    <highlightingPatterns>
+      <LogHighlightingPattern pattern="^\s*c(ritical)?\s*$" fg="-65536" stripe="true" />
+    </highlightingPatterns>
+    <parsingPatterns>
+      <LogParsingPattern name="Symfony" pattern="^\[(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2})]\s+([^.]+)\.([^:]+):\s+(.*)$" timePattern="yyyy-MM-dd HH:mm:ss" linePattern="^\[" timeId="0" severityId="2" categoryId="1" fullmatch="true" />
+    </parsingPatterns>
+    <settingsVersion>4</settingsVersion>
+    <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
+  </component>
+</application>

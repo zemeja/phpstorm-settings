@@ -1,0 +1,27 @@
+<templateSet group="PHP">
+  <template name="vdb" value="var_dump(debug_backtrace());" description="vad dump debug_backtrace" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="vd" value="var_dump();" description="var_dump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pc" value="parent::__construct();" description="parent construct" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dw" value="die('*** Die from: ' . __CLASS__ . '-&gt;' . __FUNCTION__ . '() ***');" description="Die wat" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pi" value="phpinfo();die;" description="phpinfo();die;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

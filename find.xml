@@ -2,22 +2,20 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="showResultsInSeparateView" value="true" />
-    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.scss</mask>
-    <mask>*.twig</mask>
-    <mask>*.tpl</mask>
-    <mask>*.php</mask>
+    <mask>*.css</mask>
+    <mask>*.js</mask>
+    <mask>*.yaml</mask>
     <mask>*.yml</mask>
+    <mask>*.twig</mask>
+    <mask>*.php</mask>
+    <mask>*.xml</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>

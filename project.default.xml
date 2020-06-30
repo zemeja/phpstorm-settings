@@ -1,20 +1,12 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="InspectionProjectProfileManager">
-        <option name="PROJECT_PROFILE" />
-        <version value="1.0" />
-      </component>
-      <component name="NodePackageJsonFileManager">
-        <packageJsonPaths />
-      </component>
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
       <component name="PropertiesComponent">
-        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Yarn/bin" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.smarty" />
+        <property name="settings.editor.selected.configurable" value="Errors" />
       </component>
-      <component name="SmartyConfiguration" left_delimiter="[{" right_delimiter="}]" />
     </defaultProject>
   </component>
 </application>
