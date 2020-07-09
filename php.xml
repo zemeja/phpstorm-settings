@@ -7,12 +7,12 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="471036de-bf40-4d6d-bcb0-44bdbf60402c" name="workspace" home="docker-compose://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="workspace" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
-          <type_data command="EXEC" />
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="workspace" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false">
           <dockerComposeConfigurationPaths>
             <item value="V:/home/zemeja/lamp/www/laradock/docker-compose.yml" />
           </dockerComposeConfigurationPaths>
           <envs />
+          <type_data command="EXEC" />
         </remote_data>
       </interpreter>
     </interpreters>
