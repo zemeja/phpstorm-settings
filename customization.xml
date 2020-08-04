@@ -38,6 +38,13 @@
       <path value="VcsNavBarToobarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Tool_External Tools_Git MR to testing" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <action id="Tool_External Tools_Git MR to testing" icon="$USER_HOME$/Downloads/icons/actions/addFacesSupport.png" />
   </component>
 </application>
