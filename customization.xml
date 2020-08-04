@@ -1,0 +1,43 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="VcsToolbarLabelAction" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangesView.Refresh" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="VCS Local Changes Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangesView.Refresh" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="VCS Local Changes Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_Git MR to testing" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Tool_External Tools_Git MR to testing" icon="$USER_HOME$/Downloads/icons/actions/addFacesSupport.png" />
+  </component>
+</application>
