@@ -1,6 +1,6 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="myPathToGit" value="\\wsl$\Ubuntu\usr\bin\git" />
     <option name="USE_CREDENTIAL_HELPER" value="true" />
   </component>
 </application>
