@@ -15,8 +15,8 @@
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
-    <mask>*.tpl</mask>
-    <mask>*.yaml</mask>
     <mask>*.json</mask>
+    <mask>*.yaml</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
