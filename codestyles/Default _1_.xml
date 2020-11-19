@@ -12,7 +12,7 @@
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
-  <codeStyleSettings language="yaml">
+  <codeStyleSettings language="SCSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
