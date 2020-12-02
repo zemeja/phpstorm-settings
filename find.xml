@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\nemo-search-api\src\StoreStock\StockDataProvider.php'" />
-    <option name="defaultScopeName" value="File '...\nemo-search-api\src\StoreStock\StockDataProvider.php'" />
-    <option name="SEARCH_SCOPE" value="File '...\nemo-search-api\src\StoreStock\StockDataProvider.php'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
