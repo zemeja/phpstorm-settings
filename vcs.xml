@@ -33,7 +33,7 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="//wsl$/Ubuntu-20.04/home/zemekj/projects/patches" />
+    <option name="PATCH_STORAGE_LOCATION" value="//wsl$/Ubuntu/home/zemeja/lamp/www" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
