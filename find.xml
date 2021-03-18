@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\nemo-search-api\src\FeatureSwitches\FeatureSwitchService.php'" />
-    <option name="defaultScopeName" value="File '...\nemo-search-api\src\FeatureSwitches\FeatureSwitchService.php'" />
-    <option name="SEARCH_SCOPE" value="File '...\nemo-search-api\src\FeatureSwitches\FeatureSwitchService.php'" />
+    <option name="customScope" value="all except feature flag" />
+    <option name="defaultScopeName" value="all except feature flag" />
+    <option name="SEARCH_SCOPE" value="all except feature flag" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
