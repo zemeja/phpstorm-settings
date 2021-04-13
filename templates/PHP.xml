@@ -24,4 +24,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="du" value="dump(debug_backtrace());" description="symfony dump" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

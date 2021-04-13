@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="api" />
+    <option name="defaultScopeName" value="api" />
+    <option name="SEARCH_SCOPE" value="api" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -11,12 +11,13 @@
     <mask>*.mxml</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.yml</mask>
     <mask>*.twig</mask>
-    <mask>*.php</mask>
     <mask>*.xml</mask>
-    <mask>*.tpl</mask>
     <mask>*.json</mask>
     <mask>*.yaml</mask>
+    <mask>*.tpl</mask>
+    <mask>*.yml</mask>
+    <mask>*.php</mask>
+    <mask>*.html.twig</mask>
   </component>
 </application>

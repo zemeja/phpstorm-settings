@@ -1,1 +1,6 @@
-<code_scheme name="Default" />
+<code_scheme name="Default" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <H2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+  </H2CodeStyleSettings>
+</code_scheme>

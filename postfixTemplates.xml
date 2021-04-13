@@ -1,0 +1,9 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="vdd@userDefined" key=".vdd" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="var_dump($EXPR$);die;" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="com.jetbrains.php.postfixCompletion.PhpVarDumpPostfixTemplate#.var_dump" key=".vd" provider="builtin.php" builtin="com.jetbrains.php.postfixCompletion.PhpVarDumpPostfixTemplate#.var_dump" />
+  </component>
+</application>

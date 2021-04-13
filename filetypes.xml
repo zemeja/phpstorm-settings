@@ -1,7 +1,11 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="docker" type="AUTO_DETECTED" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
       <removed_mapping ext="vue" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="App.vue" approved="true" type="Vue.js" />
     </extensionMap>
