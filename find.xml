@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.tf" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,5 +20,6 @@
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.html.twig</mask>
+    <mask>*.tf</mask>
   </component>
 </application>
