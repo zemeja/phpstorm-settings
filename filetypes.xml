@@ -6,6 +6,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="vue" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="App.vue" approved="true" type="Vue.js" />
     </extensionMap>
