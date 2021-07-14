@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,8 +17,8 @@
     <mask>*.tpl</mask>
     <mask>*.html.twig</mask>
     <mask>*.json</mask>
+    <mask>*.tf</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
-    <mask>*.tf</mask>
   </component>
 </application>
