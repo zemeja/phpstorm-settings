@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="docker" type="AUTO_DETECTED" />
+      <mapping ext="gz" type="Native" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
