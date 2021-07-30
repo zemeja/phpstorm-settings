@@ -2,7 +2,7 @@
   <component name="aws">
     <option name="profilesNotification" value="Always" />
     <option name="promptedForTelemetry" value="true" />
-    <option name="telemetryEnabled" value="true" />
+    <option name="telemetryEnabled" value="false" />
     <option name="useDefaultCredentialRegion" value="Prompt" />
   </component>
   <component name="executables">
