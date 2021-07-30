@@ -12,7 +12,10 @@
           <option name="id" value="cloud-debugCli" />
         </ExecutableState>
         <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="C:\Program Files\Amazon\AWSSAMCLI\bin\sam.cmd" />
           <option name="id" value="samCli" />
+          <option name="lastKnownFileTime" value="1626931162000" />
         </ExecutableState>
         <ExecutableState>
           <option name="id" value="awsCli" />
