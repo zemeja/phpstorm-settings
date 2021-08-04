@@ -18,10 +18,7 @@
           <option name="lastKnownFileTime" value="1626931162000" />
         </ExecutableState>
         <ExecutableState>
-          <option name="autoResolved" value="true" />
-          <option name="executablePath" value="/usr/local/bin/aws" />
           <option name="id" value="awsCli" />
-          <option name="lastKnownFileTime" value="1627421097000" />
         </ExecutableState>
       </list>
     </option>
