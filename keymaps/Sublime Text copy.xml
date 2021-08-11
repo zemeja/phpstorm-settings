@@ -2,9 +2,17 @@
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="alt back_space" />
+    <keyboard-shortcut first-keystroke="meta z" />
+  </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorPasteSimple">
