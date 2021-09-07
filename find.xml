@@ -17,8 +17,8 @@
     <mask>*.html.twig</mask>
     <mask>*.json</mask>
     <mask>*.tf</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.tpl</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
