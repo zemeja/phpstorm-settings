@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="import" />
-    <option name="defaultScopeName" value="import" />
-    <option name="SEARCH_SCOPE" value="import" />
+    <option name="customScope" value="project except vendor" />
+    <option name="defaultScopeName" value="project except vendor" />
+    <option name="SEARCH_SCOPE" value="project except vendor" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
