@@ -4,6 +4,7 @@
       <mapping pattern="docker" type="AUTO_DETECTED" />
       <mapping ext="gz" type="Native" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".tesults-config.json.swp" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
