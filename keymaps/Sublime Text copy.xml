@@ -2,6 +2,14 @@
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
     <keyboard-shortcut first-keystroke="alt back_space" />
@@ -11,13 +19,17 @@
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="EditorAddOrRemoveCaret" />
-  <action id="EditorPasteSimple">
-    <keyboard-shortcut first-keystroke="meta v" />
-  </action>
+  <action id="EditorPasteSimple" />
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift tab" />
   </action>
@@ -39,6 +51,11 @@
   <action id="SplitChooser.PreviousWindow" />
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="meta c" />
   </action>
   <action id="Terminal.Paste">
     <keyboard-shortcut first-keystroke="shift insert" />
