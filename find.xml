@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\nemo-search-api\config\routes.yaml'" />
-    <option name="defaultScopeName" value="File '…\nemo-search-api\config\routes.yaml'" />
-    <option name="SEARCH_SCOPE" value="File '…\nemo-search-api\config\routes.yaml'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
