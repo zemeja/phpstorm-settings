@@ -32,7 +32,6 @@
     <option name="PLACES_MAP">
       <entry key="CommitDialog">
         <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
           <option name="READ_ONLY_LOCK" value="false" />
           <option name="SHOW_WHITESPACES" value="true" />
