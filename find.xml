@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…\nemo-search-bo\src\Kernel.php'" />
+    <option name="defaultScopeName" value="File '…\nemo-search-bo\src\Kernel.php'" />
+    <option name="SEARCH_SCOPE" value="File '…\nemo-search-bo\src\Kernel.php'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -15,6 +15,7 @@
     <mask>*.json</mask>
     <mask>*.tf</mask>
     <mask>*.tpl</mask>
+    <mask>*.yml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -26,6 +27,5 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
-    <mask>*.yml</mask>
   </component>
 </application>
