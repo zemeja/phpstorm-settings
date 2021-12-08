@@ -12,7 +12,6 @@
     <mask>*.twig</mask>
     <mask>*.yaml</mask>
     <mask>*.html.twig</mask>
-    <mask>*.json</mask>
     <mask>*.tf</mask>
     <mask>*.tpl</mask>
     <mask>*.yml</mask>
@@ -27,5 +26,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.json</mask>
   </component>
 </application>
