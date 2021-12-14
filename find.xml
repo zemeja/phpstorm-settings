@@ -14,7 +14,6 @@
     <mask>*.html.twig</mask>
     <mask>*.tf</mask>
     <mask>*.tpl</mask>
-    <mask>*.yml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -27,5 +26,6 @@
     <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
