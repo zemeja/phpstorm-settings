@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="PHP/Creates new PHP Test" />
+    <ignoreAction name="PHP/Add fluent setter" />
   </component>
 </application>

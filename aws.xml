@@ -12,10 +12,9 @@
           <option name="id" value="cloud-debugCli" />
         </ExecutableState>
         <ExecutableState>
-          <option name="autoResolved" value="true" />
-          <option name="executablePath" value="C:\Program Files\Amazon\AWSSAMCLI\bin\sam.cmd" />
+          <option name="executablePath" value="/opt/homebrew/bin/sam" />
           <option name="id" value="samCli" />
-          <option name="lastKnownFileTime" value="1626931162000" />
+          <option name="lastKnownFileTime" value="1637203667562" />
         </ExecutableState>
         <ExecutableState>
           <option name="autoResolved" value="true" />
