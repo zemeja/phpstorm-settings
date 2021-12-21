@@ -26,4 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="experiments">
+    <option name="value">
+      <map>
+        <entry key="connectedLocalTerminal" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
