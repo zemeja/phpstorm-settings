@@ -1,5 +1,10 @@
 <code_scheme name="Default (1)" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </value>
+  </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
