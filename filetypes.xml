@@ -3,10 +3,25 @@
     <ignoreFiles list="*.phar;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="docker" type="AUTO_DETECTED" />
+      <mapping pattern="jest.config" type="JSON" />
+      <mapping pattern=".eslintrc" type="JSON" />
+      <mapping pattern=".stylelintrc" type="JSON" />
+      <mapping pattern=".babelrc" type="JSON" />
+      <mapping pattern="bowerrc" type="JSON" />
+      <mapping ext="jsb3" type="JSON" />
+      <mapping ext="jsb2" type="JSON" />
       <mapping ext="gz" type="Native" />
+      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".jshintignore" type="PLAIN_TEXT" />
+      <mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".node-version" type="PLAIN_TEXT" />
       <mapping pattern=".tesults-config.json.swp" type="PLAIN_TEXT" />
+      <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
+      <mapping pattern=".npmignore" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
