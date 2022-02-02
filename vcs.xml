@@ -22,9 +22,13 @@
           <option name="url" value="http://gitlab.shapingdixonsretail.com" />
           <option name="userName" value="zemekj01" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.shapingdixonsretail.com/e-commerce/searchlabs/search-test-suite.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\jakze" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
