@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -12,7 +12,6 @@
     <mask>*.twig</mask>
     <mask>*.yaml</mask>
     <mask>*.html.twig</mask>
-    <mask>*.json</mask>
     <mask>*.yml</mask>
     <mask>*.tpl</mask>
     <mask>*.tf</mask>
@@ -28,5 +27,6 @@
     <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.json</mask>
   </component>
 </application>
