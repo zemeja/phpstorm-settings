@@ -14,6 +14,7 @@
     <mask>*.yml</mask>
     <mask>*.tpl</mask>
     <mask>*.tf</mask>
+    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -25,7 +26,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.json</mask>
   </component>
 </application>
