@@ -27,5 +27,6 @@
     <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
+    <mask>composer.json</mask>
   </component>
 </application>
