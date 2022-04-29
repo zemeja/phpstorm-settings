@@ -34,6 +34,10 @@
           <option name="url" value="http://git.dsg-i.com" />
           <option name="userName" value="zemekj01" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://stash.dsg-i.com" />
+          <option name="userName" value="zemekj01" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="\\wsl$\Ubuntu-20.04\home\zemeja\projects" />
