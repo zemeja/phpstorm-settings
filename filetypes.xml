@@ -11,6 +11,7 @@
       <mapping pattern=".tesults-config.json.swp" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="php-dev" type="PLAIN_TEXT" />
       <mapping ext="make" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
