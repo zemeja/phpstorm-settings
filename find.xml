@@ -23,10 +23,10 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>composer.json</mask>
-    <mask>*.php</mask>
     <mask>*.yaml</mask>
     <mask>*.json</mask>
     <mask>*.tpl</mask>
+    <mask>*.php</mask>
     <mask>*.yml</mask>
   </component>
 </application>
