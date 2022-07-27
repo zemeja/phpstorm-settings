@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\test\e2e\better_specifications_test.js'" />
-    <option name="defaultScopeName" value="File '…\test\e2e\better_specifications_test.js'" />
-    <option name="SEARCH_SCOPE" value="File '…\test\e2e\better_specifications_test.js'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
