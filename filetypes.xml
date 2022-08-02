@@ -18,6 +18,7 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="vue" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern="App.vue" approved="true" type="Vue.js" />
     </extensionMap>
   </component>
