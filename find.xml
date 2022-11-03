@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -25,10 +24,10 @@
     <mask>*.inc</mask>
     <mask>composer.json</mask>
     <mask>*.php</mask>
-    <mask>*.yaml</mask>
     <mask>*.yml</mask>
     <mask>*.scss</mask>
     <mask>*.tpl</mask>
     <mask>*.json</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
