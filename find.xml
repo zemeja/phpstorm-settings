@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Changes" />
+    <option name="defaultScopeName" value="Changes" />
+    <option name="SEARCH_SCOPE" value="Changes" />
+    <option name="FILE_MASK" value="*.tpl" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -25,9 +26,9 @@
     <mask>composer.json</mask>
     <mask>*.yml</mask>
     <mask>*.scss</mask>
-    <mask>*.tpl</mask>
     <mask>*.json</mask>
     <mask>*.yaml</mask>
     <mask>*.php</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
